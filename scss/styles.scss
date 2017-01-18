@@ -1,0 +1,18 @@
+body {
+    background:white;
+    .element {
+        padding:20px;
+        background:black;
+        height:20px;
+        float:left;
+        p {
+            color:white;
+            float:left;
+            margin:0;
+        }
+    }
+}
+div {
+    background:white;
+    transition:all 2s linear;
+}
